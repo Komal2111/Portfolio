@@ -1,0 +1,19 @@
+.project{
+    
+   
+    
+
+    display: flex;
+
+    /* justify-content: center; */
+    
+}
+.heading1::before{
+    background-image: url("https://media.istockphoto.com/id/1371124527/photo/healthy-eating-and-blood-pressure-control.jpg?s=612x612&w=is&k=20&c=S9vAEUwl5lRVZ8RB8i6HnEhvJWG03dihY8-gdsv_UZ4=");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.protfolio2{
+    display: flex;
+    
+}
